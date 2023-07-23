@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Stockpile](https://www.stockpile.fyi)
 
-- 👨‍💻 All of my projects are available at [https://www.sangjun.dev](https://www.sangjun.dev)
+- 👨‍💻 All of my projects are available at [https://sangjun.dev](https://www.sangjun.dev)
 
 - 📫 How to reach me **dev.sangjun@gmail.com**
 
