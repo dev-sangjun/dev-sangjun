@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sangjun</h1>
-<h3 align="center">An experienced full-stack engineer, who've had ownership of numerous customer-facing products</h3>
-
-- 🔭 I’m currently working on [Stockpile](https://www.stockpile.fyi)
-
-- 👨‍💻 All of my projects are available at [https://sangjun.dev](https://www.sangjun.dev)
 
 - 📫 How to reach me **dev.sangjun@gmail.com**
 
